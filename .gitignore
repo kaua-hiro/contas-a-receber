@@ -1,0 +1,17 @@
+# Go
+*.exe
+*.test
+*.out
+/api/bin/
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Editor/SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
